@@ -1,5 +1,5 @@
 # High-School-Java-Works
-Consists of my work I have done during my AP Computer Science class in High School
+Consists of some of the work I have done during my AP Computer Science class in High School
 
 Table of context:
 
