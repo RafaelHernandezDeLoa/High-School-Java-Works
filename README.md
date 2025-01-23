@@ -11,3 +11,4 @@ DoubleEmFromFile.java - This program accesses a file from the filepath mentioned
 
 Lab14b.java - For this program, I used a series of for loops and if statements to figure out, based on the current given int array called nums, if the numbers in the array are all in ascending or descending order.
 
+SmallestCommonNumber.java - From two ordered arrays of nonrepeatitive integers (nums1 and nums2), the program finds the smallest common number between the two arrays. The lowestCommon1 method achieves this in a slower than necessary way while the lowestCommon2 method does the same thing through a less computationally heavy procedure.
